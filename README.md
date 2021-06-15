@@ -6,6 +6,7 @@ The website should have a static webpage with buttons to login page as well as r
 - Name 
 - email address
 - password 
+
 password confirmation Password and Password confirmation check should be done before inserting into the database, otherwise it should throw an error Details for the user table in the database have been provided below.
 Choose a primary key for your database. 
 - id - int Name - varchar(30) 
